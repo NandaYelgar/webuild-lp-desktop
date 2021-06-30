@@ -1,0 +1,49 @@
+.frame-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 79px;
+  min-height: 478px;
+  position: absolute;
+  top: 241px;
+  width: 531px;
+}
+.span0 {
+  letter-spacing: -0.22px;
+  line-height: 48px;
+}
+.span1 {
+  letter-spacing: -0.22px;
+  line-height: 40px;
+}
+.span2 {
+  color: var(--red);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 800;
+  letter-spacing: -0.42px;
+  line-height: 70px;
+}
+.text-1 {
+  height: 206px;
+  letter-spacing: -0.70px;
+  line-height: 32px;
+  min-height: 206px;
+  width: 533px;
+}
+.text-1.animate-enter1 {
+  animation: animate-enter1-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+}
+.text-2 {
+  color: var(--black);
+  line-height: 28px;
+  margin-top: 32px;
+  min-height: 168px;
+  mix-blend-mode: normal;
+  width: 402px;
+}
+@keyframes animate-enter1-frames {
+
+from{}
+to{}
+}

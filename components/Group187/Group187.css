@@ -1,0 +1,27 @@
+.group-18 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 24px;
+  min-width: 304px;
+}
+.mail {
+  height: 25px;
+  margin-top: -0.5px;
+  mix-blend-mode: normal;
+  width: 22px;
+}
+.phone {
+  height: 25px;
+  margin-top: -0.5px;
+  mix-blend-mode: normal;
+  width: 22px;
+}
+.text-2-2 {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  margin-left: 6px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}

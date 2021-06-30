@@ -1,0 +1,44 @@
+.project-card {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 85px;
+  min-height: 330px;
+  position: absolute;
+  top: 2756px;
+  width: 410px;
+}
+.project-card.project-card-1 {
+  top: 3134px;
+}
+.project-card.project-card-2 {
+  top: 3488px;
+}
+.project-card.project-card-3 {
+  left: 519px;
+  top: 3488px;
+}
+.project-card.project-card-4 {
+  left: 953px;
+  top: 3488px;
+}
+.project-card.project-card-5 {
+  left: 519px;
+}
+.project-card.project-card-6 {
+  left: 953px;
+}
+.project-card.project-card-7 {
+  left: 519px;
+  top: 3134px;
+}
+.project-card.project-card-8 {
+  left: 953px;
+  top: 3134px;
+}
+.rectangle-62 {
+  height: 240px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 410px;
+}

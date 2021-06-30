@@ -1,0 +1,54 @@
+.group-130 {
+  align-items: flex-start;
+  display: flex;
+  height: 824px;
+  left: 4px;
+  min-width: 1440px;
+  position: absolute;
+  top: 0;
+}
+.group-37 {
+  align-items: flex-start;
+  display: flex;
+  height: 824px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 1px;
+  position: absolute;
+  top: 0;
+}
+.header {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+.overlap-group1 {
+  height: 824px;
+  position: relative;
+  width: 1440px;
+}
+.overlap-group2 {
+  height: 824px;
+  position: relative;
+  width: 1438px;
+}
+.rectangle-2 {
+  display: block;
+  height: 824px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 1438px;
+}
+.rectangle-2.animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+}
+@keyframes animate-enter-frames {
+
+from{}
+to{}
+}

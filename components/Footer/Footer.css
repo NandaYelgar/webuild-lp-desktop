@@ -1,0 +1,84 @@
+.facebook-app-symbol {
+  height: 25px;
+  margin-top: -0.5px;
+  mix-blend-mode: normal;
+  width: 24px;
+}
+.footer {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 384px;
+  margin-left: 4px;
+  min-width: 1440px;
+  padding: 40px 80px;
+  position: relative;
+}
+.frame-1578 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 279px;
+  width: 411px;
+}
+.frame-1583 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-top: 32px;
+  min-width: 104px;
+}
+.frame-1583-item {
+  height: 25px;
+  margin-left: 16px;
+  margin-top: -0.5px;
+  mix-blend-mode: normal;
+  width: 24px;
+}
+.frame-1584 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+  min-height: 222px;
+  width: 302px;
+}
+.frame-1585 {
+  align-items: flex-start;
+  display: flex;
+  height: 280px;
+  min-width: 1061px;
+  position: relative;
+}
+.group-189 {
+  align-items: flex-start;
+  display: flex;
+  height: 70px;
+  min-width: 304px;
+}
+.group-32 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 166px;
+  position: relative;
+  width: 302px;
+}
+.group-86-1 {
+  height: 33px;
+  width: 178px;
+}
+.map-pin-1 {
+  height: 25px;
+  margin-top: 1.09px;
+  mix-blend-mode: normal;
+  width: 22px;
+}
+.text-26 {
+  color: var(--white);
+  line-height: 24px;
+  margin-left: 6px;
+  min-height: 70px;
+  mix-blend-mode: normal;
+  width: 276px;
+}

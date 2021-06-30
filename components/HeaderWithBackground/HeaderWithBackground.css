@@ -1,0 +1,16 @@
+.group-86 {
+  height: 34px;
+  width: 178px;
+}
+.header-with-background {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 72px;
+  left: 4px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  padding: 0 80px;
+  position: absolute;
+  top: 0;
+}
